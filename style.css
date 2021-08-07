@@ -1,0 +1,16 @@
+body
+{
+    background-image:url(party_background.jpg);
+    background-position:center;
+    background-size: cover;
+}
+#myCanvas
+{
+    border-width: 10px;
+    background-color: aqua;
+    border-style: outset;
+    border-color: rgb(141, 35, 35);
+    background-image:url(BirthdayImage.jpg);
+    background-position:center;
+}
+
